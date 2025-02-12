@@ -1,1 +1,2 @@
 This is first file in git
+added second line post issue solved
